@@ -4,6 +4,10 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	
+	
+	Tim Wells twells@ll.mit.edu
+	
 
 # THANKS
 
